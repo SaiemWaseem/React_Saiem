@@ -1,24 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <h1>Saiem Seekhy Ga React | Today I learn how to make project of react and manipulate the code and understand the pakage jason file and learn what is the purpose of each command in package jason file. 😊👍</h1>
   );
 }
 
